@@ -1,5 +1,7 @@
 # diff-Stemmatology-Python
 
+[![DOI](https://zenodo.org/badge/597797969.svg)](https://zenodo.org/badge/latestdoi/597797969)[![DOI](https://zenodo.org/badge/597797969.svg)](https://zenodo.org/badge/latestdoi/597797969)
+
 SE - Computational Methods for Text Stemmatology
 
 Univ.-Prof. Dr Tara L Andrews, Dott.ssa.mag. Elisabetta Magnanti
